@@ -1,2 +1,2 @@
-# Water-content-modeling-of-rice
-Water content modeling system of rice: Image-based and machine learning algorithms
+# Moisture-content-modeling-of-rice
+Moisture content modeling system for rice: A new calculation method of plant moisture content based on machine learning algorithm
